@@ -6,6 +6,7 @@
 </div>
 RN-Net is a neural network deploy short-term memory memristor's device to work with the event-based camera.
 This repository provides an implementation of RN-Net that is compatible with a Python package, snnTorch.
+Please find the paper for the detailed information: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202400265
 
 # Demonstration
 
