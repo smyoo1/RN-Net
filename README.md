@@ -1,4 +1,4 @@
-# RN-Net
+# RN-Net: Reservoir Nodes-Enabled Neuromorphic Vision Sensing Network
 
 # Introduction
 <div align=center>
